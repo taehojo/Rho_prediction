@@ -24,18 +24,18 @@ D_GENE_M="./script/03_distance-features-reverse.py";
 STACK="./scripts/04_dna-stack-energy.py";
 
 #FIRE motif
-MOTIF_LIST='./motif_results/FIRE.txt'
+MOTIF_LIST='./motif_search/FIRE.txt'
 FIRE_LEN='./scripts/05_fire-len.py'
 
 #meme motif
-MEME_P='./motif_results/meme-plus.txt'
-MEME_M='./motif_results/meme-minus.txt'
+MEME_P='./motif_search/meme-plus.txt'
+MEME_M='./motif_search/meme-minus.txt'
 
 #glam2 motif
-GLAM_P10='./motif_results/glam2-plus10.txt'
-GLAM_M10='./motif_results/glam2-minus10.txt'
-GLAM_P20='./motif_results/glam2-plus20.txt'
-GLAM_M20='./motif_results/glam2-minus20.txt'
+GLAM_P10='./motif_search/glam2-plus10.txt'
+GLAM_M10='./motif_search/glam2-minus10.txt'
+GLAM_P20='./motif_search/glam2-plus20.txt'
+GLAM_M20='./motif_search/glam2-minus20.txt'
 
 # kmer
 KMER="/home/petefred/src/gkmsvm/gkmsvm_classify"
