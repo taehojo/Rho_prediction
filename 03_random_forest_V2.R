@@ -24,7 +24,7 @@ data_test = read.csv("./ml-result/145-test.csv", header = TRUE)
 set.seed(777)
 rfcv.res = rfcv(data_train[,c(2:145)], as.factor(data_train[,1]))
 
-# Estimated Error Rate
+# Error Rate
 plot(rfcv.res$n.var, rfcv.res$error.cv, log="x",type="o", lwd=2, xlab="Number of Variables", ylab="Error Rate")
 lines(rfcv.res$n.var, rfcv.res$error.cv)
 title(main="Estimated Error Rate")
