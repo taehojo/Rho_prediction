@@ -20,7 +20,7 @@ Understanding the sequence specificity of Rho-dependent termination with machine
 
 2. [02_Feature-extraction-1160-set.sh](https://github.com/taehojo/Rho_prediction/blob/master/02_Feature-extraction-1160-set.sh) : run feature extraction for 1160 set.
 
-3. [03_random_forest_v3.3.0.R](https://github.com/taehojo/Rho_prediction/blob/master/03_random_forest_v3.3.0.R) : run R for random forest
+3. [03_random_forest_V2.R](https://github.com/taehojo/Rho_prediction/blob/master/03_random_forest_V2.R) : run R for random forest
 
 -----
 
