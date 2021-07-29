@@ -1,4 +1,5 @@
 # Rho_prediction
+종결 단백질 Rho를 이용한 전사 종결 예측 머신러닝 프로젝트
 Understanding the sequence specificity of Rho-dependent termination with machine learning
 
 ## data
