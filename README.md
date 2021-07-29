@@ -24,10 +24,5 @@ Understanding the sequence specificity of Rho-dependent termination with machine
 
 -----
 
-Freddolino Lab.
-
-Department of Biological Chemistry
-
-University of Michigan
-
-http://freddolino-lab.med.umich.edu/
+Copyright 
+Taeho Jo (taehjo@gmail.com)
